@@ -1,0 +1,4 @@
+Type,Value,Description,ScanAction,RiskLevel,DaysToExpiration
+url, http://www.blockme.com,test, block, high, -1
+ip, 10.10.10.3
+domain, www.bad.com
